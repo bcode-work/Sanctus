@@ -22,7 +22,11 @@ The Slave has control over multiple subsystems and is designed to be highly expa
 ----------Subsystems----------
 
 NAVSEN - Sensors used for detecting obstacles, direction, orientation, and acceleration. 
+
 SERIAL- Serial bus used for communication between master and slave boards.
-LRCOM - Long range communication package
+
+LRCOM - Long range communication package.
+
 MEMS - Memory and onboard clock for storing and retrieving data and timestamps.
+
 EXIO - External Input/Output for communicating with additional sensors. 
